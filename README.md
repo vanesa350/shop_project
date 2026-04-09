@@ -1,4 +1,4 @@
-Instrukcija soli pa solim:
+INSTRUKCIJA LIETOTAJAM
 Atver mapi ar programmu;
 Atver data.py(vienu reizi), tas izveidos mapi /data, ģenerēs atslēgas failu un sagatavos šifrēto produktu failu;
 Atver main_gui.py ar dubultklikšķi vai terminālā ievadi python main_gui.py
